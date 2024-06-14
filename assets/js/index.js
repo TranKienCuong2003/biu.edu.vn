@@ -1,6 +1,3 @@
-
-window.location.href = 'http://127.0.0.1:5500/#trangchu';
-
 const sliderContainer = document.querySelector('.container__slider');
 const slides = document.querySelectorAll('.container__slider-product');
 
